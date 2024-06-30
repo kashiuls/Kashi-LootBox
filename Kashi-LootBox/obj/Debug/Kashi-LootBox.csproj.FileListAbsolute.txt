@@ -1,0 +1,16 @@
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\Kashi-LootBox.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\Kashi-LootBox.pdb
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\Assembly-CSharp.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\Rocket.API.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\Rocket.Core.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\Rocket.Unturned.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\UnityEngine.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\obj\Debug\Kashi-LootBox.csproj.AssemblyReference.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\obj\Debug\Kashi-LootBox.csproj.CoreCompileInputs.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\obj\Debug\Kashi-Lo.CA84828C.Up2Date
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\obj\Debug\Kashi-LootBox.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\obj\Debug\Kashi-LootBox.pdb
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-LootBox\Kashi-LootBox\bin\Debug\UnityEngine.PhysicsModule.dll
